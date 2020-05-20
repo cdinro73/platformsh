@@ -1,5 +1,5 @@
 <?php
-
+//test
 use Platformsh\ConfigReader\Config;
 
 require __DIR__.'/../vendor/autoload.php';
